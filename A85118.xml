@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Right Honorable (his Excellency) Oliver Cromwell, Lord Generall of all the forces raised in England, Ireland, and Scotland, for the regainment of Englands long lost liberties, and to the Honorable Tho. Harrison, Major Generall, and to the whole councell of state sitting at White-Hall, J. F. wisheth health, and increase of true honor in the Lord Jesus here, and eternall glory in the glorious world to come.</title>
+            <author>J. F.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85118</idno>
+            <idno type="STC">Wing F44</idno>
+            <idno type="STC">Thomason E216_4</idno>
+            <idno type="STC">ESTC R18957</idno>
+            <idno type="EEBO-CITATION">99860514</idno>
+            <idno type="PROQUEST">99860514</idno>
+            <idno type="VID">157818</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85118)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157818)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 38:E216[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Right Honorable (his Excellency) Oliver Cromwell, Lord Generall of all the forces raised in England, Ireland, and Scotland, for the regainment of Englands long lost liberties, and to the Honorable Tho. Harrison, Major Generall, and to the whole councell of state sitting at White-Hall, J. F. wisheth health, and increase of true honor in the Lord Jesus here, and eternall glory in the glorious world to come.</title>
+                  <author>J. F.</author>
+               </titleStmt>
+               <extent>[10] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: This 25. of the 4. moneth 1653. J.F.</note>
+                  <note>Caption title.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>A memorial against imprisonment for debt, etc.</note>
+                  <note>Annotation on Thomason copy: "Aug. 2. 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658.</term>
+               <term>Debt, Imprisonment for --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:157818:1" rendition="simple:additions"/>
+            <head>To the Right Honorable (his Excellency) <hi>Oliver Cromwel,</hi> Lord Generall of all the Forces raiſed in <hi>England, Ireland,</hi> and <hi>Scotland,</hi> for the regainment of <hi>Englands</hi> long loſt Liberties, and to the Ho<g ref="char:EOLhyphen"/>norable <hi>Tho. Harriſon,</hi> Major Generall, and to the whole Councell of State ſitting at <hi>White-Hall, J. F.</hi> wiſheth health, and increaſe of true ho<g ref="char:EOLhyphen"/>nor in the Lord Jeſus here, and eternall glory in the glorious world to come.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>AS for many years paſt (by the good hand of my God) I have been drawn forth for the publike,
+<note place="margin">Whatſoever is not of Christ, is aſſuredly of the Divel, but cruelty, oppreſſion, and mur<g ref="char:EOLhyphen"/>thering of men and women in Priſons, Goals and Dun<g ref="char:EOLhyphen"/>geons, is not of Chriſt; Therefore of the Divell and his ſervants they are, (that ſo do) whoſe will they act, and to whom they obey.</note>
+               <note place="margin">All Felons are baylable, and not to be impriſoned before Iudgement hath paſſed of their crime, <hi>fo. 73.</hi>
+               </note> and not for ſelf-ends,
+<note place="margin">Thoſe that impriſon a free man, or blemiſh his credit, are by the Law infamous perſons, <hi>fo. 192.</hi>
+               </note> ſo I deſire ſtill to perſiſt to the glory of his great name, and this my countries welfare, being alſo ſtirred up thereunto by your (hitherto) moſt Chri<g ref="char:EOLhyphen"/>ſtian proceedings,
+<note place="margin">Multitude of Clerks not to be permitted, <hi>fo. 246.</hi>
+               </note> and revived in my ſpi<g ref="char:EOLhyphen"/>rit by the great hopes I do retain of your faithfull perſeverance to the perfe<g ref="char:EOLhyphen"/>cting of this good work by you taken in hand (for the calling a new Repreſenta<g ref="char:EOLhyphen"/>tive) to the glory of God,
+<note place="margin">No Writs of Accompt to be iſſued forth, becauſe none may impriſon another wrong<g ref="char:EOLhyphen"/>fully, <hi>fo. 247.</hi>
+               </note> the advance of the Kingdome of Jeſus Chriſt in true Juſtice, Judgement, and Mercy, and the reſtoration of this your Native Coun<g ref="char:EOLhyphen"/>tries Birth-rights and Liberties.</p>
+            <p>Upon that accompt I am incouraged moſt humbly to preſent theſe few lines to your pious wiſdome,
+<note place="margin">No Right in Iudgement to be ſold for fees or bribes, <hi>fo. 258.</hi>
+               </note> and Chriſtian conſideration, hoping that your faith and zeale for Gods glory and this your Countries peace and tranquillity, will ſpeedily appear by your works to all the inhabitants of this Land,
+<note place="margin">From the dayes of <hi>Alfred,</hi> King of <hi>England,</hi> to the time of <hi>Edward,</hi> Nationall Councells were held twice in the year.</note>
+               <note place="margin">
+                  <hi>Reaſons ſhewed,</hi> That the new Statute for the impriſonment of men for debt, is <hi>Evill, Illegall,</hi> and quite contrary to the Fundamentall Law, reaſon, and the liberty of the people, <hi>fo. 283. 284.</hi>
+               </note> whereby all your friends in the Lord will have great cauſe of rejoycing, and your enemies will be inforced to acknowledge and ſay, that of a ſurety God is in you, and that he the only Lord of Hoſts,
+<note place="margin">See that antient famous Law-book called, <hi>Mirror of Juſtice,</hi> fol. <hi>6.</hi>
+               </note> the God of Iſrael, hath done very great and ex<g ref="char:EOLhyphen"/>cellent things by you for this poore inſlaved Nation under the <hi>Norman
+<pb facs="tcp:157818:2"/>yoke,</hi> of 587. yeares continnance.</p>
+            <p>
+               <hi>And therefore I do moſt humbly and heartily (in the Lord) beſeech you to conſider.</hi>
+            </p>
+            <p>That it is deliverance from this <hi>Nor<g ref="char:EOLhyphen"/>man</hi> yoke of bondage and ſlavery,
+<note place="margin">Juſtice and Right was then done truly, and all cauſes of controverſie determined within fifteen dayes, <hi>fol. 8.</hi>
+               </note> your ſelves, and the people of God in this Na<g ref="char:EOLhyphen"/>tion have fought for, to the hazzard of yours and their lives, the vaſt expenſe of treaſure, and effuſion of a Sea of bloud,
+<note place="margin">None to be hang'd for theft, nor impriſoned for debt, <hi>fo. 192. 257.</hi>
+               </note> that notwithſtanding the innumerable bleſſings of God (through your indefa<g ref="char:EOLhyphen"/>tigable endeavours) conferred on this Nation, and the ſeverall vowes and pro<g ref="char:EOLhyphen"/>miſes made by the late Parliament to this Nation for the reſtoration of their antient Rights and Liberties, as by their Declaration of the ſeventh of <hi>April</hi> 1646.
+<note place="margin">No Action to be entred nor received to Judgement, un<g ref="char:EOLhyphen"/>leſſeſecurity was firſt given to make good the plaint, and coſts and damages to the Defendant, if not made good, <hi>fol. 14. 233. 257.</hi>
+               </note>
+               <note place="margin">Falſe Witneſſes are to die the death, being attainted of a falſe appeal, <hi>fo. 228.</hi>
+               </note> and <hi>March</hi> 1648. appeareth; yet hitherto that great unſupportable and unparallell'd bondage of <hi>Arrest,</hi> and impriſonment of men and womens per<g ref="char:EOLhyphen"/>ſons, is ſtill continued, whereby the li<g ref="char:EOLhyphen"/>berty of the perſons <hi>(a point of higheſt concernment to the people in general)</hi> is left open to the violent,
+<note place="margin">It is man-ſlaughter for any Officer to ſuffer the poore to ſtarve, or periſh, and not to relieve them, by ſetting them on work, <hi>fo. 228.</hi>
+               </note> barbarous, and de<g ref="char:EOLhyphen"/>ſtructive uſage of every covetous curliſh <hi>Naball,</hi> and moſt inhumane cruell op<g ref="char:EOLhyphen"/>preſſor, and the proſperity of the Law<g ref="char:EOLhyphen"/>yers, and their ſelfe-ſeeking adherents, hitherto preferred before the peace and well-being of this great Nation, the dangerous conſequence whereof is legi<g ref="char:EOLhyphen"/>ble to all, in this Maxime <hi>(what befalls one man to day, may befall another to mor<g ref="char:EOLhyphen"/>row.)</hi>
+            </p>
+            <p>All impriſonment for debt,
+<note place="margin">Impriſonment of men till they die in priſon, is man<g ref="char:EOLhyphen"/>ſlaughter by the Law, <hi>fol. 27. 28. 30. 274.</hi>
+               </note>
+               <note place="margin">Corrupt Judges were then puniſhed in the ſame manner and meaſure as had been by them unjuſtly adjudged, or inflicted upon others. <hi>folio 207.</hi>
+               </note> being clearly an incroachment upon the Com<g ref="char:EOLhyphen"/>mon Law; and therefore (in the firſt place) fit to be rectified at this time, and in this year of <hi>Englands</hi> Jubilee, 1653.</p>
+            <p>And as at preſent (through mercy) the ſpirits of all do partake of Chriſti<g ref="char:EOLhyphen"/>an
+<pb facs="tcp:157818:2"/>liberty, ſo is it as requiſite and juſt, that our bodies (being the manſion houſes of our ſpirits) may enjoy liberty, and not to be buried alive in the ſeverall moſt filthy noyſome graves,
+<note place="margin">None to be impriſoned, but for Felony, Murther, and Treaſon, <hi>fo. 29. 57. 231. 73. 274.</hi> Alſo <hi>Hen. 3.1218.</hi>
+               </note> called Goales, Priſons, and Dungeons.</p>
+            <p>That Liberty from the late Norman thraldome,
+<note place="margin">
+                  <hi>Felons eſcape out of priſon is no mortall offence, becauſe warranted by the Law of Nature for ſafety,</hi> fo. 226.</note> is the due birth-right of this Nation,
+<note place="margin">No Iudge nor Officer is to take any fee of the people, nor reward, <hi>fo. 64.</hi>
+               </note> appeareth by the ſeverall Sta<g ref="char:EOLhyphen"/>tutes of this Land, from King <hi>Alfreds</hi> time, to the third year of this laſt King <hi>Charles,</hi> and was alſo acknowledged by all the Judges of this corrupt age, in the caſe of Sir <hi>William Herbors,</hi> reported by Sir <hi>Edward Cook,</hi> Lord Chiefe Juſtice, where it was reſolved,
+<note place="margin">None to be impriſoned, but onely for mortall offences, <hi>fo. 73.</hi>
+               </note> that by the Com<g ref="char:EOLhyphen"/>mon Law,
+<note place="margin">Any Judge once doing wrong, is never more to be obeyed, <hi>fo. 230.</hi>
+               </note> 
+               <hi>(which is to be underſtood the Great Charter of England)</hi> neither the body, nor Lands of the Defendant are liable to execution upon judgement for debt or damages <hi>(à fortiori)</hi> there<g ref="char:EOLhyphen"/>fore not to arreſts and impriſon<g ref="char:EOLhyphen"/>ment upon any <hi>Meſne Proceſſe</hi> whatſo<g ref="char:EOLhyphen"/>ever,
+<note place="margin">Goales and Priſons ordain<g ref="char:EOLhyphen"/>ed for mortall offenders on<g ref="char:EOLhyphen"/>ly, <hi>fo. 72.</hi>
+               </note>
+               <note place="margin">Goalers puniſhable for plun<g ref="char:EOLhyphen"/>dering priſoners, exacting maimes from them, as put<g ref="char:EOLhyphen"/>ting them in irons, <hi>fo. 231.</hi>
+               </note> for that every man is an innocent perſon in the eye of the Law, untill con<g ref="char:EOLhyphen"/>demned by it.</p>
+            <p>How unreaſonable and unjuſt a thing is it then,
+<note place="margin">Goalers to be ſeverely pu<g ref="char:EOLhyphen"/>niſhed for detaining any Fe<g ref="char:EOLhyphen"/>lon in priſon after his ac<g ref="char:EOLhyphen"/>quittalls; and if the Felon die in Goal, being acquit<g ref="char:EOLhyphen"/>ted, then the Goaler is to be hang'd, and is to loſe his place for exacting maimes from the priſoners, or for putting any of them in i<g ref="char:EOLhyphen"/>rons, <hi>fo. 231.</hi>
+               </note> that any free man of <hi>England</hi> ſhould ſuffer impriſonment upon a <hi>Capi<g ref="char:EOLhyphen"/>as,</hi> (which is the utmoſt puniſhment the Law can inflict upon any Malefactor) be<g ref="char:EOLhyphen"/>fore he be condemned by the Law.</p>
+            <p>It is therefore moſt clear,
+<note place="margin">A Pleader (or Lawyer) once attainted of falſe pleading, or maintaining a<g ref="char:EOLhyphen"/>ny unjuſt Action or Cauſe, is to ſuffer bodily puniſh<g ref="char:EOLhyphen"/>ment, <hi>fol. 230.</hi>
+               </note> that all the Statutes and Judgements which have ſubjected the bodies of men and women to arreſts and impriſonment, are diame<g ref="char:EOLhyphen"/>trically oppoſite <hi>to the Law of God, to reaſon, to charity, and to the Great Char<g ref="char:EOLhyphen"/>ter,</hi> being the Fountain of all the Funda<g ref="char:EOLhyphen"/>mentall Lawes of <hi>England, therefore void and null;</hi> for that the body kept in an i<g ref="char:EOLhyphen"/>ron Cage (as a bird) cannot yeeld ſatis<g ref="char:EOLhyphen"/>faction for any debt, any other ways, nor by any other means, then by liberty and
+<pb facs="tcp:157818:3"/>induſtry in ſome calling.</p>
+            <p>For that Charter is to be interpreted by it ſelfe,
+<note place="margin">Judges to ſuffer death for pronouncing falſe Judge<g ref="char:EOLhyphen"/>ment, <hi>fo. 239.</hi>
+               </note> and not to be infringed by the innovating Lawes and opinions of Judges, that lived in the cruell tyranni<g ref="char:EOLhyphen"/>call inſlaving times,
+<note place="margin">If Iuſtice thus take place again, wo then to all our Goalers, Priſons, and Counter-keepers of this age, by whom thouſands have been thus deſtroyed.</note> whoſe wreſted con<g ref="char:EOLhyphen"/>ſtructions (of this very point in queſtion) hath ever tended more to the filling of their own purſes,
+<note place="margin">No Goalers to keep a priſon to the diſhonor of the State, <hi>fo. 214.</hi>
+               </note> and the purſes of their adherents, with the unjuſt gaine of de<g ref="char:EOLhyphen"/>ſtructive contention, and by toſſing and tumbling of men and women from one priſon to another, and upon <hi>Habias Corpus,</hi> and Commitments, then to the due adminiſtration of Juſtice, according to the juſt rules of the Common Law of <hi>England.</hi>
+            </p>
+            <p>Wherefore upon very juſt reaſons found<g ref="char:EOLhyphen"/>ed on the birth-right of this Nation,
+<note place="margin">A Iudge that ſhall delay to relieve a priſoner, and he that impriſoneth any man till he die, and doth not re<g ref="char:EOLhyphen"/>lieve him, are both man<g ref="char:EOLhyphen"/>ſlayers, <hi>fo. 30.</hi>
+               </note>
+               <note place="margin">He hang'd Iudge <hi>Hall,</hi> be<g ref="char:EOLhyphen"/>cauſe he ſaved <hi>Truſtrom</hi> (the Sheriff) from death, who bad taken to the Kings uſe from ſome men their goods againſt their wills, for that ſuch taking and robbery hath no difference, <hi>fo. 241.</hi>
+               </note> &amp; judgments paſſed by any againſt any one point of the Great Charter, (in point of this Nations Liber<g ref="char:EOLhyphen"/>ty) ought to ſtand and become as <hi>Null:</hi> and all the offenders are puniſhable in their eſtates and lives for murthering of ſo many thouſands, and robbing this whole Nation of their juſt Liberties; for if any one abſurd errour be admitted a<g ref="char:EOLhyphen"/>gainſt our liberty, a thouſand will fol<g ref="char:EOLhyphen"/>low, <hi>as at this day wofull experience ſhew<g ref="char:EOLhyphen"/>eth;</hi> and the periſhing lives of thouſands of families can teſtifie.</p>
+            <p>I do therefore in the behalfe of this (ſtill inſlaved) Nation,
+<note place="margin">
+                  <hi>Alfred</hi> King of <hi>England</hi> hang'd <hi>44.</hi> Iudges in one year, for oppreſſing the peo<g ref="char:EOLhyphen"/>ple by falſe Iudgement, <hi>fo. 240.</hi>
+               </note> become a moſt humble and earneſt Suitor unto your Excellency, and to this great Councell,
+<note place="margin">He hang'd <hi>Judge Athel<g ref="char:EOLhyphen"/>ſtone,</hi> becauſe the judged <hi>Herbert</hi> to death for an of<g ref="char:EOLhyphen"/>fence not mortal, <hi>fo. 240.</hi>
+               </note> by whom the Lord hath done very great things for this Nation, to the admirati<g ref="char:EOLhyphen"/>on, yea to the aſtoniſhment of all <hi>Eu<g ref="char:EOLhyphen"/>rope,</hi> and by his powerfull actings in and by you, he hath made you to become <hi>Englands</hi> glory, and <hi>Europes</hi> wonder, by putting down the high and mighty, and exalting the humble and meek: Behold
+<pb facs="tcp:157818:3"/>this is the Lords doing,
+<note place="margin">He hang'd Iudge <hi>Rolfe</hi> for hanging a Felon for eſcaping out of pri<g ref="char:EOLhyphen"/>ſon before conviction, <hi>fo. 240.</hi>
+               </note> and it is marvellous in our eyes, and in the eyes of all Nations.</p>
+            <p>That by ſome ſpeedy courſe all the poor op<g ref="char:EOLhyphen"/>preſſed in the Land may be relieved and right<g ref="char:EOLhyphen"/>ed,
+<note place="margin">He hang'd Iudge <hi>Di<g ref="char:EOLhyphen"/>ling,</hi> becauſe he cauſed <hi>Eldon</hi> to be hang'd, who killed a man by chance, <hi>fo. 242.</hi>
+               </note> the inſlaved out of all priſons forth with ſet free from the iron bands of their illegall and moſt cruell captivity, under which they are ſtill oppreſſed, yea preſſed to death.</p>
+            <p>That the abhominable tyrannicall Writ <hi>Ca<g ref="char:EOLhyphen"/>pias</hi> may be forthwith aboliſhed,
+<note place="margin">Iudge <hi>Th<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lwell</hi> was impriſoned for impri<g ref="char:EOLhyphen"/>ſoning a man for an of<g ref="char:EOLhyphen"/>fence not mortall.</note> and the moſt antient juſtifiable common courſe for levying of debts on mens eſtates may be reſtored, it be<g ref="char:EOLhyphen"/>ing indifferent to all that live under one com<g ref="char:EOLhyphen"/>mon Government, to take ſuch apt remedies one againſt the other, (for all juſt debts) as the wiſdome of our Anceſtors thought fit and u<g ref="char:EOLhyphen"/>ſed,
+<note place="margin">Iudge <hi>Belling</hi> was hanged for judging <hi>Le<g ref="char:EOLhyphen"/>ſton</hi> to death by fraud.</note> that ſo <hi>Foxes, Wolves, Bears,</hi> and <hi>Tygers,</hi>
+               <note place="margin">Iudge <hi>Oſwine</hi> was hang'd for judging <hi>Fulk</hi> to death out of Court, <hi>fo. 242.</hi>
+               </note> (I mean wicked Lawyers, Bayliffs, Serjeants and Goalers) may thereby be prevented from ra<g ref="char:EOLhyphen"/>vening any longer on the bodies of men and women, whereby their eſtates for many yeares paſt, have been and ſtill are a prey unto ſuch <hi>in<g ref="char:EOLhyphen"/>ſatiable. Monſters of Cruelty,</hi> and the oppreſſed, their wives and children, are thereby expoſed to famine and miſery.</p>
+            <p>The faithfull and ſpeedy accompliſhment of this will inable many thouſands <hi>(yea all)</hi> by their liberty,
+<note place="margin">Iudge <hi>Seafold</hi> was banged for judging <hi>Ordine</hi> to death, for not anſwering.</note>
+               <note place="margin">Iudge <hi>Muckline</hi> was hang'd, becauſe he hang'd <hi>Hellgrave</hi> by a Warrant of Indictment not ſpeciall, <hi>fo. 242.</hi>
+               </note> to uſe wayes and meanes of indu<g ref="char:EOLhyphen"/>ſtry to ſerve their country, labour in their ſeve<g ref="char:EOLhyphen"/>rall callings, make proviſions for payment of all juſt debts, and live peaceably and charitably one with another in this Commonwealth,
+<note place="margin">Iudge <hi>Arnold</hi> was hanged for ſaving a Bayliff from death, who had robbed the people by diſtreſſes, and for ſelling diſtreſſes, and for extorting fines, <hi>fo. 241.</hi>
+               </note> to the glory of God, and to the honor of the Eng<g ref="char:EOLhyphen"/>liſh Nation, which hitherto for theſe her cruell practiſes, bears the burden of a great reproach, and is therein condemned by all other Nations, <hi>both Chriſtian and Pagan; let the cauſe be there<g ref="char:EOLhyphen"/>fore taken away, and then the effects will ceaſe.</hi>
+            </p>
+            <p>The accompliſhment of theſe particulars in the ſpeedy diſſolution of all priſons for debt in the Land, and the due adminiſtration of Juſtice to the people in every County, Hundred, and
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:157818:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:157818:4"/>
+               <pb facs="tcp:157818:5"/>Town Corporate by the Neighbourhood (ſo as no man may travell from his habitation above four or five miles for Juſtice, and not a hundred or two hundred miles,
+<note place="margin">Iudge <hi>Therborne</hi> was hanged, becauſe he had judged one <hi>Oſgat</hi> to death, for a fact where<g ref="char:EOLhyphen"/>of be had been acquit<g ref="char:EOLhyphen"/>ted before againſt the ſame Plaintiff, which acquittance <hi>Oſgat</hi> ten<g ref="char:EOLhyphen"/>dered to approve by oath, but becauſe be did not aver it by Re<g ref="char:EOLhyphen"/>cord, Iudge <hi>Therborn</hi> would not allow of the Acquittall which was tendered to him, <hi>fol. 242.</hi>
+               </note> as now) will advance the Kingdome of Jeſus Chriſt,
+<note place="margin">Iudge <hi>R<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>wood</hi> was impriſoned for impri<g ref="char:EOLhyphen"/>ſoning a man for a debt due to the ſaid King <hi>Alfred</hi> himſelf, <hi>fo. 244.</hi>
+               </note> peace and hap<g ref="char:EOLhyphen"/>pineſſe to this Nation, and work the totall downfall of Satans Thrones of Injuſtice, ty<g ref="char:EOLhyphen"/>ranny, and oppreſſion, and of the quarterly faires kept at <hi>Weſtminſter,</hi> (by the illegall ingro<g ref="char:EOLhyphen"/>cers of pretended Juſtice) where men are daily bought and ſold in their eſtates, rights, and li<g ref="char:EOLhyphen"/>berties, and where a bit of parchment and wax (but of the reall value of one farthing) is by them ſold to the people at ſeverall rates,
+<note place="margin">Iudge <hi>Perine</hi> was hanged for ſuffering a man to die in priſon, whom he had impriſon<g ref="char:EOLhyphen"/>ed for an offence not mortal.</note> 
+               <hi>viz.</hi> from 2.s. 9.d. 4.s. 1.d. to 2.l. 3.l. 4.l. 5.l. yea 10.l. hath been given (in a long vacation) for one <hi>Habias Corpus</hi> by many people.</p>
+            <p>Behold therefore and ſee, are not ſuch men workers of iniquity, doing wickedly, by plead<g ref="char:EOLhyphen"/>ing falſly (in the preſence of the Lord) againſt the poor, and the oppreſſed, making thereby empty the ſouls of the hungry, and cauſing the drink of the thirſty to faile,
+<note place="margin">Iudge <hi>Athulfe</hi> was hanged for cauſing <hi>Coppine</hi> to be hanged, before he was <hi>21.</hi> years of age, <hi>fo. 240.</hi>
+               </note> their weapons whereby they murther the innocent, are <hi>Pens, Ink, Paper, Wax,</hi> and <hi>Parchment;</hi> yea they un<g ref="char:EOLhyphen"/>do the poor with lying words, overthrowing the cauſe of the righteous in judgement, and ſpinning out the thred of one ſuit in Law, to twenty, thirty, yea forty yeares continuance, thus making the remedy worſe then <hi>the diſeaſe of oppreſſion;</hi> and when the pulſes of one of their Clients beats ſlow, and the other Client is quite ſpent, ſo as he can neither kick nor winch (as ſome of themſelves have ſaid) then they con<g ref="char:EOLhyphen"/>ſult to tye theſe two together, by a Commiſſi<g ref="char:EOLhyphen"/>on,
+<note place="margin">Iudge <hi>Marks</hi> was hanged for judging <hi>During</hi> to death by <hi>12.</hi> men, who were not ſworn, <hi>fo. 240.</hi>
+               </note> into the Country, there (amongſt their friends) to provide more money againſt the next Term, and yet theſe perſons in the pre<g ref="char:EOLhyphen"/>ſence of their Clients ſeem to be as Adverſaries one to the other, and at the Bar plead and main<g ref="char:EOLhyphen"/>tain that for truth, which their own conſcience tells them, <hi>Tongue thou lyeſt.</hi>
+            </p>
+            <pb facs="tcp:157818:5"/>
+            <p> Break their preſent power,
+<note place="margin">He hanged Iudge <hi>Wul<g ref="char:EOLhyphen"/>ſter,</hi> becauſe he judged <hi>Haubert</hi> to death, though it was at the ſuit of the King.</note> O God, caſt them down to the duſt <hi>(as the Prelates were)</hi> and let their houſes of wickedneſſe (called Inns of Court) become habitations for the poor, that ſo Judgment may dwell in our Cities, and Juſtice in the fruitfull field,
+<note place="margin">He cut off the band of Iudge <hi>Hulfe,</hi> becauſe be did not cauſe the hand of <hi>Armock</hi> to be cut off, who had felo<g ref="char:EOLhyphen"/>niouſly wounded one <hi>Ricbald. fo. 245.</hi>
+               </note> cauſing the poore to re<g ref="char:EOLhyphen"/>joyce, and the oppreſſed to ſing for joy of heart, then the work of Juſtice ſhall be peace to all, and aſſurance of quietneſſe, yea deliverance from their great Oppreſſors, <hi>Lawyers, Impropriators, Lords of Mannors, cruell revengefull perſons, churliſh Naballs,</hi> and all other ſons of Beliall.</p>
+            <p>So ſhall God be glorified,
+<note place="margin">He cauſed Judge <hi>E<g ref="char:EOLhyphen"/>dulfe</hi> to be wounded, becauſe he judged not <hi>Arnold</hi> to be wounded, who had feloniouſly wounded one <hi>Aldens, fo. 245.</hi>
+               </note> your honoura<g ref="char:EOLhyphen"/>ble <hi>Name,</hi> and names <hi>(as Iſraels Deliverers)</hi> recorded, and this whole Nation comforted, and ever ingaged to bleſſe God for you their great deliverers; ſtick faſt therefore unto the Lord your God in this work, as you have done unto this day, for behold, the Lord hath caſt out before you the great and mighty,
+<note place="margin">He hanged all the Judges in every Coun<g ref="char:EOLhyphen"/>ty, who had falſly ſa<g ref="char:EOLhyphen"/>ved a man guilty of death, or falſly hanged any man against Law, or reaſonable excepti<g ref="char:EOLhyphen"/>ons, <hi>fo. 243.</hi>
+               </note> and none of them have hitherto been able to ſtand before your face.</p>
+            <p>
+               <hi>Take good heed therefore, and love the Lord your God, and cleave not unto the Generation of cruell men,</hi> Joſhua 23.8. 9. 10. 11. <hi>Then ſhall ye be my people, and I will be your God, ſaith the Lord God,</hi> Jer. 30.22.</p>
+            <p>Theſe particulars aforeſaid (moſt noble and victorious Sir) together with my more then ten yeares cruell ſufferings undergone,
+<note place="margin">The Lord God of Iudgment, Iuſtice and Mercy, grant that ſuch Juſtice may take place again in this Land, to the terror of all cruell oppreſſors, and to the reliefe of the poore op<g ref="char:EOLhyphen"/>preſſed, that ſo theſe great and powerfull ravenous Wolfes may not devoure the poore and innocent Lambs a<g ref="char:EOLhyphen"/>ny more, by making their perſons and e<g ref="char:EOLhyphen"/>ſtates a prey unto their teeths (as bitherto they have done, and where<g ref="char:EOLhyphen"/>in they glory;) for the truth hereof, I do ap<g ref="char:EOLhyphen"/>peal to all the people of <hi>England,</hi> who have for theſe many years longed for deliverance from theſe their bitter pangs and throws, and for the enjoyment of their freedom, peace and hap<g ref="char:EOLhyphen"/>pineſſe; witneſſe the many hundreds of Pe<g ref="char:EOLhyphen"/>titions preſented from ſeverall Connties, and alſo from ſundry per<g ref="char:EOLhyphen"/>ſons, to the late Par<g ref="char:EOLhyphen"/>liament, from time to time theſe <hi>12.</hi> or <hi>13.</hi> years ſpace, to the ſame effect, who were not ſo wiſe, as to conſider that the poore laborious feet ſupport and carry the head, and not the head the feet, and therefore in the firſt place the poore feet of the body and head, are to be cheriſhed and ſtrengthened for the better ſupport of them, both in their Walkings and National progreſs. For if the Lord had not been on my ſide, and ſtirred up your No<g ref="char:EOLhyphen"/>ble ſpirits for my deli<g ref="char:EOLhyphen"/>verance from thraldom, mine enemies had ſwal<g ref="char:EOLhyphen"/>lowed me up quick, for they were too mighty for me, and kept me locked up in one cham<g ref="char:EOLhyphen"/>ber above five years, <hi>viz.</hi> from <hi>February 1645.</hi> until <hi>April 1650.</hi> in the Fleet Priſon, London, without any juſt cauſe by them ſhew<g ref="char:EOLhyphen"/>ed to this day for ſo doing.</note> from the hands of cruelties powerfull inſtruments, (for my ſeverall ſervices moſt faithfully per<g ref="char:EOLhyphen"/>formed for the State, yea ſundry times to the hazzard of life) I do without any deſire of re<g ref="char:EOLhyphen"/>venge on my cruell Adverſaries, moſt humbly refer to your grave wiſdome, and pious conſide<g ref="char:EOLhyphen"/>ration, beſeeching the Lord to be ſtill the pro<g ref="char:EOLhyphen"/>tector of you, by whom he hath done wonder<g ref="char:EOLhyphen"/>full things for this Nation, under his ſacred wing of ſafety, and your ſole Director in all your undertakings, to the comfort of all thoſe
+<pb facs="tcp:157818:6"/>that wiſh well unto <hi>Sion,</hi> and to the amaze<g ref="char:EOLhyphen"/>ment and confuſion of his and your enemies. This is, and hath been the conſtant deſires of him, who in all faithfulneſſe ſubſcribes himſelf,</p>
+            <closer>
+               <salute>Right Honorable,</salute>
+               <lb/>
+               <signed>Your Excellencies, and his Countryes<lb/> ſervant in all readineſſe (during this<lb/> ſhort time of his fraile being in<lb/> this world of miſery) to ſerve you<lb/> in the Lord Jeſus.<lb/> 
+                  <hi>J. F.</hi>
+               </signed>
+               <dateline>
+                  <date>This 25. of the 4. moneth 1653.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
